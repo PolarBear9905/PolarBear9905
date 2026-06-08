@@ -24,9 +24,9 @@
 </p>
 
 ### Cloud, Databases, and Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60a5fa"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=93c5fd"/>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
