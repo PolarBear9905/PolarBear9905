@@ -23,6 +23,17 @@
   <img src="https://skillicons.dev/icons?i=vercel,postgres,sqlite,git,github"/>
 </p>
 
-##
+## 📊 Stats
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarBear9905&theme=nightowl"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarBear9905&theme=nightowl"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarBear9905&theme=nightowl&utcOffset=8"/>
+</p>
+
+
+## 🐍 Contribution Snake
 <img alt="github-snake" src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/output/github-contribution-grid-snake.svg" />
 
