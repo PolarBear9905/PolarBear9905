@@ -23,14 +23,20 @@
   <img src="https://skillicons.dev/icons?i=vercel,postgres,sqlite,git,github"/>
 </p>
 
+
 ## 📊 Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PolarBear9905&theme=nightowl"/>
+  <img src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/main/profile-summary-card-output/nightowl/0-profile-details.svg"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PolarBear9905&theme=nightowl"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PolarBear9905&theme=nightowl&utcOffset=8"/>
+  <img src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/main/profile-summary-card-output/nightowl/3-stats.svg"/>
+  <img src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/main/profile-summary-card-output/nightowl/4-productive-time.svg"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/main/profile-summary-card-output/nightowl/1-repos-per-language.svg"/>
+  <img src="https://raw.githubusercontent.com/PolarBear9905/PolarBear9905/main/profile-summary-card-output/nightowl/2-most-commit-language.svg"/>
 </p>
 
 
