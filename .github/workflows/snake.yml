@@ -7,17 +7,12 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  push:
-    branches:
-    - main
-    
-  
+
+permissions: 
+  contents: write
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
