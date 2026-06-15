@@ -13,19 +13,14 @@
 ## 💻 Tech Stack:
 
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
+[![Languages](https://skillicons.dev/icons?i=java,py,js,html,css)](https://skillicons.dev)
 
 ### Frameworks and Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,django"/>
-</p>
+[![Frameworks and Libraries](https://skillicons.dev/icons?i=react,tailwind,nodejs,django)](https://skillicons.dev)
+
 
 ### Cloud, Databases, and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,postgres,sqlite,git,github"/>
-</p>
+[![Cloud, Databases, and Tools](https://skillicons.dev/icons?i=vercel,postgres,sqlite,git,github)](https://skillicons.dev)
 
 
 ## 📊 Stats
